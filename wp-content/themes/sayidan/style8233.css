@@ -8,7 +8,7 @@
  Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, translation-ready, accessibility-ready
  License:
  License URI:
- 
+
  Text Domain: sayidan
  */
 
@@ -98,11 +98,11 @@ h6 {
     font-weight: 500;
     color: #484848;
     font-family:"Montserrat";font-weight:400;;
-    
+
 }
 
 p {
-    margin-bottom: 1.6em; 
+    margin-bottom: 1.6em;
     line-height: 1.6;
     font-size: 14px;
     font-family:"Montserrat";font-weight:400;;
@@ -248,7 +248,7 @@ dl {
 }
 
 dt {
- 
+
     font-weight: 700;
     color: #484848;
     font-family:"Montserrat";font-weight:400;;
@@ -308,13 +308,13 @@ figure {
 }
 
 figure.wp-caption{
-    
-   
+
+
     max-width: 100%;
 }
 
 figcaption.wp-caption-text{
-    
+
     padding:8px 0 8px 0;
 }
 
@@ -488,7 +488,7 @@ a:hover, a:active, a:focus {
 .area-mobile-content .navbar-toggle {
   width: 34px;
   height: 36px;
-  margin-top: 14px; 
+  margin-top: 14px;
   position: relative;
   -webkit-transition: .5s ease-in-out;
   -moz-transition: .5s ease-in-out;
@@ -594,7 +594,7 @@ a:hover, a:active, a:focus {
 
 .heading-light, .text-light {
   font-family:"Montserrat";font-weight:400;;
-  line-height: 2;
+  line-height: 2;text-align: justify;
 }
 
 .heading-regular, .text-regular {
@@ -1040,7 +1040,7 @@ img.aligncenter {
 .container-header.type1 .menu .nav > li:nth-child(5), .container-header.type1 .menu .nav > li:nth-child(6) .container-header.type1 .menu .nav > li:nth-child(7), .container-header.type1 .menu .nav > li:nth-child(8),
 .container-header.type1 .menu .nav > li:nth-child(9), .container-header.type1 .menu .nav > li:nth-child(10) .container-header.type1 .menu .nav > li:nth-child(11), .container-header.type1 .menu .nav > li:nth-child(12){
   margin-top: 10px;
-} 
+}
 /*************************************
    Header Type 2
 *************************************/
@@ -1881,12 +1881,12 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 
 .alumni-interview {
   background-size: cover;
-  
+
 }
 .alumni-interview .interview-wrapper {
   display: block;
   float: left;
-  
+
 }
 .alumni-interview .interview-wrapper h1 {
   font-size: 42px;
@@ -1898,15 +1898,15 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
   font-size: 20px;
   margin:0px;
 }
-.alumni-interview .interview-wrapper .interview-desc p {
+.alumni-interview .interview-wrapper .about.html p {
   line-height: 2;
   font-size: 13px;
-  width: 85%;
+
 }
 .alumni-interview .interview-wrapper .interview-see-story {
   float: left;
-  
-  
+
+
   display: block;
 }
 .alumni-interview .interview-wrapper .interview-see-story a {
@@ -1947,7 +1947,7 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 @media (min-width: 992px) {
   .alumni-interview {
     /* background: url("css/icons/bg-home.jpg") no-repeat; */
-    
+
   }
 }
 @media (max-width: 991px) {
@@ -2148,7 +2148,6 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 }
 .about-us .about-us-content {
   padding: 55px 0 25px;
-  text-align: justify;
 }
 .about-us .about-us-content .content-wrapper {
   line-height: 2;
@@ -2661,7 +2660,7 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 .page-links a,
 .page-links > span {
     margin: 0 0.2857em 0.2857em 0;
-    
+
 }
 .page-links span.screen-reader-text{ position: relative!important; }
 .page-links a span.screen-reader-text{ color:#fff!important;}
@@ -2931,7 +2930,7 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
     background-repeat: no-repeat;
     width: 555px;
     height: 545px;
-    
+
 }
 .program-upcoming-event .dark_overlay{
     background-color:#1a265c;
@@ -4789,7 +4788,7 @@ iframe {
 
   .navbar-toggle {
     display: block;
-    margin: 
+    margin:
   }
 
   .navbar-collapse {
@@ -4809,11 +4808,11 @@ iframe {
   .mobile-menu  {
     display: none;
   }
-  
+
   .navbar-mob{
     min-height:auto;
   }
-  
+
   .navbar-mob {
     float: none!important;
     margin-top: 7.5px;
@@ -4831,18 +4830,18 @@ iframe {
   .collapse.in{
     display:block !important;
   }
-    
+
   #site-navigation{
     display:none;
   }
-  
+
  .navbar-toggle {
     display: block;
     /*border:1px solid #1a265c;*/
     padding:10px;
     margin:0 0 0 10px;
   }
-  
+
   .site-header-3 .navbar-toggle {
     display: block;
     margin-right:0;
@@ -4850,7 +4849,7 @@ iframe {
     padding:10px;
     margin-left:10px;
   }
-  
+
   .site-header-single .navbar-toggle,
   .site-header-page .navbar-toggle {
     display: block;
@@ -4859,15 +4858,15 @@ iframe {
     padding:10px;
     margin-left:10px;
   }
-  
+
   .navbar-toggle .icon-bar{
     background:#1a265c ;
   }
-  
+
   .site-header-3 .navbar-toggle .icon-bar{
     background:#fff ;
   }
-  
+
   .site-header-single .navbar-toggle .icon-bar,
   .site-header-page .navbar-toggle .icon-bar{
     background:#252525 ;
@@ -4889,7 +4888,7 @@ iframe {
     border:none;
     padding:10px 0;
   }
-  
+
   .mobile-navigation .navbar-mob  > li > a{
     color:#252525;
     font-size:15px;
@@ -4923,7 +4922,7 @@ iframe {
   }
 
   #site-navigation-mobile ul.sub-menu li.menu-item{
-    margin: 14px 5px; 
+    margin: 14px 5px;
   }
 
   #site-navigation-mobile ul.sub-menu li.menu-item a{
