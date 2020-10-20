@@ -1947,12 +1947,13 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 @media (min-width: 992px) {
   .alumni-interview {
     /* background: url("css/icons/bg-home.jpg") no-repeat; */
+    
   }
 }
 @media (max-width: 991px) {
   .alumni-interview {
     background:none!important;
-    background-color: #e9e9e9!important;
+    background-color: #ffffff;
   }
 }
 
