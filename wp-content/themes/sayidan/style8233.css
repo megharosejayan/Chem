@@ -2148,6 +2148,7 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 }
 .about-us .about-us-content {
   padding: 55px 0 25px;
+  text-align: justify;
 }
 .about-us .about-us-content .content-wrapper {
   line-height: 2;
