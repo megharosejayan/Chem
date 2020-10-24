@@ -73,6 +73,8 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
+  scroll-behavior: smooth;
+
   vertical-align: baseline;
 }
 
