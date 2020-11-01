@@ -5221,6 +5221,24 @@ input.heateor_ss_social_login_optin{
   opacity: 1;
   visibility: visible;
 }
+.responsive-map-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  margin-bottom: -100px;
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-map-container iframe,
+.responsive-map-container object,
+.responsive-map-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+}
 
 /* Styles for the content section */
 
