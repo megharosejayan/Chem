@@ -1696,6 +1696,12 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
   line-height: 1.4;
   font-family:"Montserrat";font-weight:400;;
 }
+.block-links h5 {
+  line-height: 2;
+  font-size: 13px;
+}
+
+
 .block-links .view-all {
   width: 100%;
   float: left;
@@ -1712,6 +1718,7 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 }
 .block-links .column-news .post-item {
   margin-bottom: 30px;
+  
 }
 .block-links .column-news .image-frame {
   float: left;
