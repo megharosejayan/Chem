@@ -198,3 +198,4 @@ function initMap() {
     infowindow.open(map, marker);
   }
 }
+
