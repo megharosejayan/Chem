@@ -3910,7 +3910,7 @@ textarea {
 }
 .alumni-directory .alumni-directory-content .box-content .user img {
   float: left;
-  height:50px;
+  height:80px;
   margin-top:4px;
   width:auto;
   -webkit-border-radius: 50%; /* Saf3+, Chrome */
