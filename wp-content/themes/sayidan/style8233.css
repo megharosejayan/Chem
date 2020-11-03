@@ -3806,7 +3806,7 @@ textarea {
   float: left;
   height: 45px;
   min-width: 260px;
-  border-color: #e9e9e9;
+  border-color: #968a8a;
   -moz-border-radius: 0;
   -webkit-border-radius: 0;
   border-radius: 0;
@@ -3869,6 +3869,7 @@ textarea {
 }
 .alumni-directory .alumni-directory-content .user {
   width: 20%;
+  padding: 0 15px;
 }
 .alumni-directory .alumni-directory-content .year {
   width: 15%;
@@ -3881,23 +3882,27 @@ textarea {
 .alumni-directory .alumni-directory-content .scholl {
   width: 25%;
   padding: 0 15px;
+  
 }
 .alumni-directory .alumni-directory-content .department {
   width: 25%;
-  padding-left: 15px;
+  padding-left: 2px;
 }
 .alumni-directory .alumni-directory-content .label-content {
-  padding-bottom: 25px;
+  padding-bottom: 1px;
   border-bottom: 1px solid #d9d9d9;
+  
 }
 .alumni-directory .alumni-directory-content .label-content span {
   color: #2d2d2d;
-  font-size: 14px;
+  font-size: 18px;
   text-transform: capitalize;
 }
 .alumni-directory .alumni-directory-content .box-content {
-  padding: 3px 0;
-  position: relative;
+  /* padding: 3px 3px; */
+   position: relative;  
+   padding-bottom: 1px;
+    border-bottom: 1px solid #d9d9d9;  
 }
 .alumni-directory .alumni-directory-content .box-content:before {
   content: "";
