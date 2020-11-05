@@ -597,6 +597,7 @@ a:hover, a:active, a:focus {
 .heading-light, .text-light {
   font-family:"Montserrat";font-weight:400;;
   line-height: 2;text-align: justify;
+  font-size: 5vw;
 }
 
 .heading-regular, .text-regular {
@@ -605,6 +606,7 @@ a:hover, a:active, a:focus {
 
 .heading-bold, .text-bold {
   font-family:"Montserrat";font-weight:700;
+  font-size: 5vw;
 }
 
 .list-item li {
