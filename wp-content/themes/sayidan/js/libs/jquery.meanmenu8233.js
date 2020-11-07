@@ -19,9 +19,9 @@
 * DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
 *
 * You should have received a copy of the GNU General Public License
-* along with this program. If not, see <http://gnu.org/licenses/>.
+* along with this program. If not, see <https://gnu.org/licenses/>.
 *
-* Find more information at http://www.meanthemes.com/plugins/meanmenu/
+* Find more information at https://www.meanthemes.com/plugins/meanmenu/
 *
 */
 (function ($) {
