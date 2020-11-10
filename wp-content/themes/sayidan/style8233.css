@@ -796,6 +796,7 @@ img.aligncenter {
  Header
  *************************************/
 @media (min-width: 992px) {
+  
     .page .container-header {
         box-shadow: 1px 7px 20px rgba(0, 0, 0, 0.15);
     }
@@ -1965,8 +1966,10 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
 }
 .alumni-interview .interview-wrapper h1 {
   color: #2d2d2d;
+  
 }
 @media (min-width: 992px) {
+  
   .alumni-interview .interview-wrapper {
     padding: 125px 0;
   }
@@ -1984,6 +1987,12 @@ h1.page-title{  text-transform: uppercase; font-size:20pt;}
   }
 }
 @media (max-width: 991px) {
+  .alumni-interview .interview-wrapper h1 {
+    font-size: 22px;
+    color: #2d2d2d;
+    margin-top: -90px;
+    letter-spacing: 1px;
+  }
   .alumni-interview {
     background:none!important;
     background-color: #ffffff;
